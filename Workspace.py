@@ -1,4 +1,4 @@
-#WOR#!/usr/bin/env python37-32
+#!/usr/bin/env python37-32
 #-*- coding: utf-8 -*-
 
 """
